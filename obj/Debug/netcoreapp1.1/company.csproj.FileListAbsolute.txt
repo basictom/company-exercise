@@ -1,0 +1,8 @@
+/Users/Basic/Workspace/company/bin/Debug/netcoreapp1.1/company.deps.json
+/Users/Basic/Workspace/company/bin/Debug/netcoreapp1.1/company.runtimeconfig.json
+/Users/Basic/Workspace/company/bin/Debug/netcoreapp1.1/company.runtimeconfig.dev.json
+/Users/Basic/Workspace/company/bin/Debug/netcoreapp1.1/company.dll
+/Users/Basic/Workspace/company/bin/Debug/netcoreapp1.1/company.pdb
+/Users/Basic/Workspace/company/obj/Debug/netcoreapp1.1/company.AssemblyInfo.cs
+/Users/Basic/Workspace/company/obj/Debug/netcoreapp1.1/company.dll
+/Users/Basic/Workspace/company/obj/Debug/netcoreapp1.1/company.pdb
